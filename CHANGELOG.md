@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.2] - 2025-06-22
+
+### Added
+- Added demo GIFs to `README.md` to showcase the package in action.
+
 ## [1.0.1] - 2025-06-22
 
 ### Fixed
