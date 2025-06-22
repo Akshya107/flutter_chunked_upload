@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.1] - 2025-06-22
+
+### Fixed
+- Shortened the package description in `pubspec.yaml` to meet pub.dev's recommended length for better package scoring.
+
 ## [1.0.0] - 2025-06-22
 
 ### Added

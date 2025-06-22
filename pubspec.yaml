@@ -1,7 +1,7 @@
 name: flutter_chunked_upload
 description: >
-  A robust Flutter package for chunked file uploads with resume, progress tracking, queue management, and persistent storage. Supports pause, resume, cancel, and priority-based upload queue. Ideal for large file uploads in unreliable network conditions.
-version: 1.0.0
+  A Flutter package for chunked file uploads with resume, progress tracking, and queue management. Supports pause, resume, cancel, and persistent storage for large files.
+version: 1.0.1
 homepage: https://github.com/Akshya107/flutter_chunked_upload
 repository: https://github.com/Akshya107/flutter_chunked_upload
 
