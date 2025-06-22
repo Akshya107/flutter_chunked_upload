@@ -15,6 +15,12 @@ and the Flutter guide for
 
 A Flutter package for handling chunked file uploads with resume capability, progress tracking, and queue management.
 
+## 🚀 Demo
+
+| Android Demo | iOS Demo |
+| :---: | :---: |
+| <img src="media/android_demo.gif" alt="Android Demo" width="300"/> | <img src="media/ios_demo.gif" alt="iOS Demo" width="300"/> |
+
 ## 🌟 Features
 
 - **Chunked File Uploads**: Split large files into manageable chunks for reliable uploads
