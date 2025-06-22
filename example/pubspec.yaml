@@ -1,0 +1,24 @@
+name: flutter_chunked_upload_example
+description: Example app for flutter_chunked_upload package
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  file_picker: ^10.2.0
+  flutter:
+    sdk: flutter
+  flutter_chunked_upload:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true 
